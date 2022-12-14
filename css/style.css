@@ -17,22 +17,23 @@ body {
 .text-main {
     text-align: center;
     font-family: 'Alegreya', serif;
-    padding-bottom: 20px;
 }
 
 .text-lyrics {
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 24px;
-    word-spacing: 2px;
+    word-spacing: 5px;
     display: flex;
     flex-direction: column;
     align-items: center;
     line-height: 48px;
+    margin: 48px;
+    padding-bottom: 24px;
 }
 
 .text-lyrics span {
     line-height: 20px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 section {
